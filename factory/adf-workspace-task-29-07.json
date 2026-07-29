@@ -1,0 +1,15 @@
+{
+	"name": "adf-workspace-task-29-07",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4911f3da-3b0a-4d7b-bf41-371a61b62139",
+		"tenantId": "d15e84a5-4dd8-47f2-bc81-92442f7b6c9a"
+	}
+}
